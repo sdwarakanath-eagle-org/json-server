@@ -1,19 +1,19 @@
 {
   "project": [
     {
-      "classnumber": "YY12345",
+      "id": "YY12345",
       "projectnumber": "12345"
     },
     {
-      "classnumber": "YY23456",
+      "id": "YY23456",
       "projectnumber": "23456"
     },
     {
-      "classnumber": "YY34567",
+      "id": "YY34567",
       "projectnumber": "34567"
     },
     {
-      "classnumber": "YY45678",
+      "id": "YY45678",
       "projectnumber": "45678"
     }
   ]
