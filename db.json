@@ -16,5 +16,11 @@
       "id": "YY45678",
       "projectnumber": "45678"
     }
-  ]
+  ],
+  "Certified_Reviewers": [
+            {"username":"cpilla"},
+            {"username":"nigupta"},
+            {"username":"koverma"}
+        ]
+ 
 }
