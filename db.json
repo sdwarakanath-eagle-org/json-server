@@ -18,9 +18,36 @@
     }
   ],
   "Certified_Reviewers": [
-            {"username":"cpilla"},
-            {"username":"nigupta"},
-            {"username":"koverma"}
-        ]
- 
+    {
+      "username": "cpilla"
+    },
+    {
+      "username": "nigupta"
+    },
+    {
+      "username": "koverma"
+    }
+  ],
+  "Certified_Verifiers": [
+    {
+      "username": "cpilla"
+    },
+    {
+      "username": "nigupta"
+    },
+    {
+      "username": "koverma"
+    }
+  ],
+  "Certified_Trainers": [
+    {
+      "username": "cpilla"
+    },
+    {
+      "username": "nigupta"
+    },
+    {
+      "username": "koverma"
+    }
+  ]
 }
