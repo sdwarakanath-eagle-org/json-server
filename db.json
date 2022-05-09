@@ -17,6 +17,20 @@
       "projectnumber": "45678"
     }
   ],
+  "project_created": [
+    {
+      "id": "YY12345"
+    },
+    {
+      "id": "YY23456"
+    },
+    {
+      "id": "YY34567"
+    },
+    {
+      "id": "YY45678"
+    }
+  ],
   "Certified_Reviewers": [
     {
       "username": "cpilla"
